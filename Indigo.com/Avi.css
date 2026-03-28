@@ -1,0 +1,24 @@
+body{
+  background: linear-gradient(to right, skyblue, #f0eee9);
+  
+}
+
+h2,h5,h4,h3,h1{
+  font-size: 32px;
+  color: navy
+}
+
+h1{
+  text-decoration: white dotted underline;
+  font-size: 45px;
+}
+
+p{
+  font-size: 18px;
+  color:#4d3c74e1
+}
+
+ptd{
+  font-size: 18px;
+  color:azure
+}

@@ -1,0 +1,23 @@
+body{
+  background: linear-gradient(to right, grey, grey,#0a2463, #0a2463,#d90429, #d90429);
+  color:whitesmoke;
+   filter: blur(0.5px);
+}
+
+h1, h2, h3 {
+font-size: 35px;
+  color:wheat;
+  text-decoration: white dotted underline;
+ 
+  padding: 1rem;
+}
+
+p1,p2,p3{
+  color:ghostwhite;
+  font-size: 16px;
+}
+
+h25{
+  color:whitesmoke;
+  font-size: 20px;
+}
